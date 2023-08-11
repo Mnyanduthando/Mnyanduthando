@@ -1,4 +1,4 @@
-<img src="https://media-public.canva.com/drvAk/MAD2IxdrvAk/1/s2.jpg"  /> 
+<img src="https://media-public.canva.com/drvAk/MAD2IxdrvAk/1/s2.jpg"  height="500" /> 
 <h1 align="center">Hi 👋, I'm Noluthando Mnyandu</h1>
 <h3 align="center">Frontend developer from South Africa</h3>
  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="mnyanduthando" align="right" width="400" />
